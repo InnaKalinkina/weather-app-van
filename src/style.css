@@ -76,7 +76,7 @@ small {
 }
 .rating-area {
   overflow: hidden;
-  width: 265px;
+  width: 250px;
   margin: 0 auto;
 }
 .rating-area:not(:checked) > input {
@@ -84,11 +84,11 @@ small {
 }
 .rating-area:not(:checked) > label {
   float: right;
-  width: 42px;
+  width: 30px;
   padding: 0;
   cursor: pointer;
-  font-size: 32px;
-  line-height: 32px;
+  font-size: 20px;
+  line-height: 20px;
   color: lightgrey;
   text-shadow: 1px 1px #bbb;
 }
