@@ -36,6 +36,7 @@ li:first-letter {
   padding: 20px;
   border: 1px solid #dadde1;
   border-radius: 10px;
+  background-color: paleturquoise;
 }
 
 .overview {
